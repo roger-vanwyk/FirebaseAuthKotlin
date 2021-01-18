@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "452827890828",
+    "firebase_url": "https://roger-1ad27.firebaseio.com",
+    "project_id": "roger-1ad27",
+    "storage_bucket": "roger-1ad27.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:452827890828:android:802c58095ae085b898e7a9",
+        "android_client_info": {
+          "package_name": "com.example.roger.firebaseauthkotlin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "452827890828-p8jeq3velvkg53c1rnb10lig2og0sip4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDxwQU8GwE3eMob4cwlSGnI55NFZ1SIRzA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "452827890828-p8jeq3velvkg53c1rnb10lig2og0sip4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:452827890828:android:f8adae29fcbcb4f098e7a9",
+        "android_client_info": {
+          "package_name": "ga.vanwyk.chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "452827890828-p8jeq3velvkg53c1rnb10lig2og0sip4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDxwQU8GwE3eMob4cwlSGnI55NFZ1SIRzA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "452827890828-p8jeq3velvkg53c1rnb10lig2og0sip4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
